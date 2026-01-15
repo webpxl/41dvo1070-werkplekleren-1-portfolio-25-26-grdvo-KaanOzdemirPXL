@@ -1,0 +1,49 @@
+PRIVACY RICHTLIJNEN
+===================
+
+Laatst bijgewerkt: 15 januari 2025
+
+1. VERZAMELING VAN GEGEVENS
+----------------------------
+Deze portfolio website verzamelt geen persoonlijke gegevens van bezoekers. 
+Er worden geen cookies gebruikt voor tracking of analytics.
+
+2. CONTACTFORMULIEREN
+---------------------
+Indien u contact opneemt via de vermelde contactgegevens, worden uw 
+gegevens alleen gebruikt om te reageren op uw bericht. Uw gegevens worden 
+niet opgeslagen of gedeeld met derden.
+
+3. EXTERNE LINKS
+----------------
+Deze website kan links bevatten naar externe websites. Wij zijn niet 
+verantwoordelijk voor het privacybeleid van deze externe websites. 
+We raden u aan het privacybeleid van elke website die u bezoekt te lezen.
+
+4. AFBEELDINGEN EN CONTENT
+---------------------------
+Alle afbeeldingen en content op deze website zijn eigendom van de 
+website-eigenaar of zijn rechtenvrij en correct gelicentieerd. 
+Gebruik van deze content zonder toestemming is niet toegestaan.
+
+5. GITHUB PAGES
+---------------
+Deze website wordt gehost via GitHub Pages. Voor informatie over het 
+privacybeleid van GitHub, bezoek: https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement
+
+6. UW RECHTEN
+-------------
+Aangezien deze website geen persoonlijke gegevens verzamelt, zijn de 
+standaard privacyrechten (zoals het recht op inzage, correctie of 
+verwijdering) niet van toepassing. Mocht u vragen hebben, neem dan 
+contact op via de vermelde contactgegevens.
+
+7. WIJZIGINGEN
+--------------
+Deze privacy richtlijnen kunnen van tijd tot tijd worden bijgewerkt. 
+De datum van de laatste wijziging wordt bovenaan dit document vermeld.
+
+CONTACT
+-------
+Voor vragen over deze privacy richtlijnen, neem contact op via:
+Email: kaan.ozdemir@student.pxl.be
